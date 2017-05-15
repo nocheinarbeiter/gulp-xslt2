@@ -8,7 +8,7 @@
     "xslt3",
     "saxon"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "check-types": "^7.1.5",
     "globby": "^6.1.0",
     "gulp-util": "^3.0.8",
-    "node-xslt-java-bridge": "^1.0.0",
+    "node-xslt-java-bridge": "^1.0.1",
     "through2": "^2.0.3",
     "vinyl": "^2.0.1"
   },
