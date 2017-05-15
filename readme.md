@@ -70,5 +70,11 @@ If several xslt templates are passed:
 </xsl:stylesheet>
 ```
 
+### Troubleshooting: Popup dialog to install legacy JAVA SE 6 on macOS
+It could be because the Oracle JDK does not advertise itself as available for JNI.
+Please see [this issue](https://github.com/joeferner/node-java/issues/90#issuecomment-45613235)
+for more details and manual workarounds.
+
+
 ## Examples
 Please find brief demos of these features in `examples/` directory in the source repository.
